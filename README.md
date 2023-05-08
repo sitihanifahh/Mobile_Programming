@@ -1,2 +1,3 @@
 # Mobile_Programming
-![alt text](http://url/to/img.png)
+# Pertemuan 2
+![alt text](pertemuan2/pertemuan2.png)
